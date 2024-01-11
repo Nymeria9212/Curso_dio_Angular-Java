@@ -1,0 +1,7 @@
+<ul>
+  <li *ngFor="let news of data">
+    <img [src]="news.img" alt="" />
+    <h3>{{ news.title }}</h3>
+    <p>{{ news.text }}</p>
+  </li>
+</ul>

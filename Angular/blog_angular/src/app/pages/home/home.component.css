@@ -1,0 +1,24 @@
+.title-blog{
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 5rem;
+    gap: 1rem;
+}
+.title-blog>h1{
+    font-size: 4rem;
+}
+.title-blog>p{
+    width: 60%;
+}
+
+article{
+    margin:0 5rem ;
+    display: flex;
+    justify-content: center;
+}
+.news{
+    display: flex;
+    justify-content: center;
+}
