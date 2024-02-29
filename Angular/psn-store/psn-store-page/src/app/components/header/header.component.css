@@ -1,0 +1,20 @@
+header {
+    height: 7rem;
+    padding: 2rem 0 0 2rem;
+}
+
+.header-menu {
+    width: 100%;
+    display: flex;
+    gap: 2.5rem;
+}
+
+a {
+    display: flex;
+    gap: 0.5rem;
+    font-size: 2rem;
+    align-items: center;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Roboto', 'sans-serif';
+}
